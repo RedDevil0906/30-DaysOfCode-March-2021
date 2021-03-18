@@ -1,3 +1,3 @@
 n =int(input())
 for i in range (1,n+1):
-    print(i**3+2*i) 
+    print(i**3+2*i,end=" ") 
